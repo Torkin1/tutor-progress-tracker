@@ -12,7 +12,7 @@ Each time you perform a gig, you can write in one line the **DATE**, the **START
 
 If you decide to collect some of your hard earned money, you can update the **REQUESTED** single-row column with the amount of minutes you requested to collect to your manager. The sheet will distinguish the money you have actually collected from the amount you have earned, but you still have to collect.
 
-If at some point your manager gives you additional working hours that you can use to perform gigs and you want to keep track of them in the same sheet, you must update the <ins> **BONUS** </ins> single-row colunn with the corresponding amount of additional minutes.
+If at some point your manager gives you additional working hours that you can use to perform gigs and you want to keep track of them in the same sheet, you must update the ***BONUS*** single-row colunn with the corresponding amount of additional minutes.
 
 ## Example
 
